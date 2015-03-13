@@ -44,7 +44,7 @@ done = false
 threadsNr = 10
 
 # url = 'http://sofee-records.mmm-tasty.ru/faves'
-url = 'onlyfog.mmm-tasty.ru'
+url = 'surface-form.tumblr.com'
 
 if url.include? 'tumblr.com'
   regex = /http:\/\/(\d|[a-zA-Z])*.media.tumblr.com\/(.*).(jpg|jpeg|png|gif)/
